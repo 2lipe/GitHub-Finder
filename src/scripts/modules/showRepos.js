@@ -1,4 +1,4 @@
-function showRepos(repos) {
+export default function showRepos(repos) {
   const repositorios = document.querySelector('#repos');
   
   console.log(repos);

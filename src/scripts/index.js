@@ -1,5 +1,6 @@
 import dotenv from 'dotenv';
 import showProfile from './modules/showProfile';
+import showRepos from './modules/showRepos';
 
 dotenv.config();
 
